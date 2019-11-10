@@ -1,5 +1,11 @@
 #include <iostream>
 using namespace std;
+
+/*
+Descripcion: Determina si es un triagulo equilatero
+Autor: Helen Gtz
+*/
+
 int main(void) {
      int num1,num2,num3;
   	printf("Dar el primer lado: ");
