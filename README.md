@@ -17,3 +17,8 @@ https://www.geeksforgeeks.org/compiling-with-g-plus-plus/
 
 ## Editor en linea
 https://paiza.io/projects/RPQc5DBD3ck2rDcSAoZa4g?language=cpp
+## para poner indicaciones sin afectar el programa
+/*
+Descripcion: Determina si es un triagulo equilatero
+Autor: Helen Gtz
+*/
